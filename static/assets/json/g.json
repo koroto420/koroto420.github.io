@@ -5,7 +5,7 @@
     "categories": ["all"],
     "custom": "true"
   },
-   {
+  {
     "name": "! Interstellar FAQ/Docs",
     "image": "/assets/media/icons/help_center_googlefonts.png",
     "link": "https://docs.gointerstellar.app",
@@ -681,12 +681,6 @@
     "name": "Subway Surfers: San Francisco ",
     "link": "https://raw.githack.com/3kh0/3kh0-assets/main/subway-surfers/index.html",
     "image": "/assets/media/icons/SF.webp",
-    "categories": ["all,", "emu"]
-  },
-  {
-    "name": "Super Mario Bros",
-    "link": "https://topoi.pooq.com/hendrik/notmine/FullScreenMario/mario.html",
-    "image": "/assets/media/icons/SMB.webp",
     "categories": ["all,", "emu"]
   },
   {
@@ -1942,5 +1936,23 @@
     "name": "ShipCraft.io",
     "link": "https://shipcraft.io/",
     "categories": ["all"]
+  },
+  {
+    "name": "Super Mario Bros.",
+    "link": "https://emulator-games.pages.dev/nes/Super Mario Bros.",
+    "image": "/assets/media/icons/emulator/smb.webp",
+    "categories": ["all", "emu"]
+  },
+  {
+    "name": "Super Mario Bros. 2",
+    "link": "https://emulator-games.pages.dev/nes/Super Mario Bros. 2",
+    "image": "/assets/media/icons/emulator/smb2.webp",
+    "categories": ["all", "emu"]
+  },
+  {
+    "name": "Super Mario Bros. 3",
+    "link": "https://emulator-games.pages.dev/nes/Super Mario Bros. 3",
+    "image": "/assets/media/icons/emulator/smb3.webp",
+    "categories": ["all", "emu"]
   }
 ]
